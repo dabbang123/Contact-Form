@@ -1,0 +1,150 @@
+body{
+    background-color: #EEEDE7;
+}
+
+.main {
+    /* align-self: center; */
+    /* border: 2px solid rebeccapurple; */
+    height: 500%;
+    width: 50%;
+    margin-left: 25rem;
+    margin-top: 4rem;
+}
+
+
+.contact{
+    text-align: center;
+    border: 1px solid #B9B7BD;
+    border-radius: 5px;
+    background-color: #868B8E;
+    text-align: center;
+    color: white;
+    
+}
+
+.contact p{
+    margin-top: -1rem;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+}
+
+.contact h1 {
+    margin-left: 2rem;
+}
+
+.inputs{
+    border: 2px solid #E7D2CC;
+    background-color: #B9B7BD;
+    border-radius: 5px;
+    height: 500px;
+    
+    
+}
+
+.name{
+    width: 100%;
+}
+
+.name p {
+    font-size: 25px;
+    margin-left: 2rem;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    
+}
+
+.entername{
+    width: 80%;
+}
+
+.name input{
+    height: 1.5rem;
+    font-size: 15px;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    margin-top: -2rem;
+    padding: 5px;
+}
+
+.email{
+    font-size: 20px;
+    margin-left: 2rem;
+}
+
+.email p{
+    font-size: 25px;
+    margin-top: -10px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+
+.email input{
+    height: 1.5rem;
+    /* margin-bottom: 1rem; */
+    font-size: 15px;
+    width: 84%;
+    padding: 5px;
+}
+
+.message{
+    font-size: 20px;
+    margin-left: 2rem;
+    padding-bottom: 5px;
+    
+}
+
+.message p{
+    margin-bottom: 5px;
+    font-size: 25px;
+    /* margin-bottom: 2rem; */
+    padding-bottom: 5px;
+}
+
+.message input{
+    padding-top: 5px;
+    height: 1.5rem;
+    width: 84%;
+    margin-bottom: 1rem;
+    padding: 5px;
+}
+
+.subject{
+    font-size: 20px;
+    margin-left: 2rem;
+}
+
+.subject p {
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+}
+
+.dropbox{
+    /* font-size: 25px; */
+    height: 2.4rem;
+    width: 85%;
+    padding-top: 5px;
+}
+
+.buttons{
+    font-size: 20px;
+    margin-left: 2rem;
+    display: flex;
+    flex-direction: row;
+    padding-top: 15px;
+    margin-top: 1rem;
+}
+
+.submitbutton{
+    font-size: 15px;
+    padding: 5px;
+    margin-right: 15px;
+}
+
+.resetbutton{
+    /* margin-top: 8rem; */
+    font-size: 15px;
+    padding: 5px;
+}
+
